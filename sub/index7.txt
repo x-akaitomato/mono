@@ -1,0 +1,15 @@
+---/
+ |--CMakeLists.txt
+ |
+ |--include/
+ |  |--hello.hpp
+ |  |--good_morning.hpp
+ |
+ |--src/
+ |  |--CMakeLists.txt
+ |  |--hello.hpp
+ |  |--good_morning.hpp
+ |
+ |--test/
+    |--CMakeLists.txt
+    |--main.cpp
