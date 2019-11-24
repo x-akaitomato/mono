@@ -1,0 +1,16 @@
+---/
+ |
+ |--include/
+ |  |--hello.hpp
+ |  |--good_morning.hpp
+ |
+ |--src/
+ |  |--hello.cpp
+ |  |--hello.o
+ |  |--good_morning.cpp
+ |  |--good_morning.o
+ |  |--libgreetings.so
+ |
+ |--test/
+    |--a.out
+    |--main.cpp

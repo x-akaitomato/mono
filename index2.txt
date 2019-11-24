@@ -1,0 +1,12 @@
+---/
+ |
+ |--include/
+ |  |--hello.hpp
+ |  |--good_morning.hpp
+ |
+ |--src/
+ |  |--hello.cpp
+ |  |--good_morning.cpp
+ |
+ |--test/
+    |--main.cpp

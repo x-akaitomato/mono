@@ -1,0 +1,11 @@
+---/
+ |-CMakeLists.txt
+ |-main.cpp
+ |-hello.hpp
+ |-hello.cpp
+ |-good_morning.hpp
+ |-good_morning.cpp
+ |-build/
+    |-a.out
+    |-libgreetings.so
+    |...（その他色々）
